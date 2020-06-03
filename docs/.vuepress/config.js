@@ -1,5 +1,5 @@
 module.exports = {
-  base: "https://milkfr.github.io/docs/",
+  base: "/docs/",
   title: "milkfr's blog",
   description: "milkfr",
   head: [
