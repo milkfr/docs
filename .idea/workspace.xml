@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7e2020a-c8fd-4c6b-804c-12f6962a9a01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a83JvGCG5dQqsO6uGaAgkC3EpN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress" />
+      <recent name="$PROJECT_DIR$/docs/public/images" />
+      <recent name="$PROJECT_DIR$/docs/public" />
+      <recent name="$PROJECT_DIR$/docs/java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7e2020a-c8fd-4c6b-804c-12f6962a9a01" name="Default Changelist" comment="" />
+      <created>1586103325539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586103325539</updated>
+      <workItem from="1586103329171" duration="51494000" />
+      <workItem from="1589518990836" duration="1158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587004214587">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="360" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586855757623" />
+    <state x="360" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1587004214587" />
+    <state x="614" y="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587021145401">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="614" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1586856634134" />
+    <state x="614" y="385" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1587021145401" />
+    <state x="791" y="211" key="SettingsEditor" timestamp="1587004219473">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="791" y="211" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1587004219473" />
+    <state x="866" y="336" width="689" height="472" key="find.popup" timestamp="1588140958145">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="866" y="336" width="689" height="472" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1588140958145" />
+    <state x="954" y="266" key="run.anything.popup" timestamp="1591166929156">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="954" y="266" key="run.anything.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1591166929156" />
+    <state x="561" y="269" width="670" height="663" key="search.everywhere.popup" timestamp="1588141964512">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586104766488" />
+    <state x="561" y="269" width="670" height="663" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1588141964512" />
+  </component>
+</project>
